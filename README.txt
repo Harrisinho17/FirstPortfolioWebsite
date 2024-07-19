@@ -1,4 +1,4 @@
-With this repository I intend to house and launch my Portfolio Website with skills that I have acquired from Youtube as well as reddit and Stack Overflow. I intend to update this as I go through my data science and Programming career with projects in order to show my friends or potential employers. 
+With this repository I intend to house and launch my Portfolio Website with skills that I have acquired from Youtube as well as Reddit and Stack Overflow. I intend to update this as I go through my data science and Programming career with projects in order to show my friends or potential employers. 
 The base is an HTML5UP template that I found during my youtube searches with some personal information to make it more personalized. 
 Thank you for visiting my page. 
 
