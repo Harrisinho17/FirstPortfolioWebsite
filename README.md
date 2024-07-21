@@ -42,9 +42,9 @@ As I advance in my data science and programming career, this portfolio will be r
 **Acknowledgments**
 I would like to extend my gratitude to the online communities and platforms that have been instrumental in my learning journey:
 
---YouTube: For the countless tutorials and walkthroughs.
---Reddit: For the supportive communities and invaluable discussions.
---Stack Overflow: For the solutions to countless coding challenges.
+- YouTube: For the countless tutorials and walkthroughs.
+- Reddit: For the supportive communities and invaluable discussions.
+- Stack Overflow: For the solutions to countless coding challenges.
 **Thank You**
 Thank you for visiting my portfolio website. I appreciate your interest in my work and my journey. Please feel free to explore the site and reach out if you have any questions, opportunities, or feedback. Your support and engagement are greatly valued.
 
