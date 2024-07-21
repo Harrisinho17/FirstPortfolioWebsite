@@ -19,6 +19,7 @@ The foundation of my portfolio website is an HTML5UP template that I discovered 
 5. **Share with Friends:** Allow friends and peers to see the projects I'm working on and the progress I'm making.
 
 ## Structure and Content
+## Structure and Content
 
 ### Home Page
 The home page serves as the introduction to my portfolio. It includes a brief overview of who I am, my professional background, and my current career focus.
