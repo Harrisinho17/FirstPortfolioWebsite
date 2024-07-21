@@ -6,9 +6,6 @@ Welcome to my Portfolio Website repository! This space is dedicated to showcasin
 
 The primary purpose of this repository is to house and launch my portfolio website. This website is a testament to the skills I have acquired through numerous online resources, including YouTube, Reddit, and Stack Overflow. By integrating the knowledge and techniques I've learned, I aim to create a comprehensive and visually appealing portfolio that highlights my expertise and projects.
 
-## Inspiration and Base Template
-
-The foundation of my portfolio website is an HTML5UP template that I discovered during my YouTube explorations. HTML5UP is known for its beautiful and responsive templates, and I found one that perfectly suits my vision. Using this template as a starting point, I have added personal information and customized elements to make it uniquely mine. This template provides a professional and polished look, ensuring that my portfolio is both functional and aesthetically pleasing.
 
 ## Objectives
 
@@ -19,16 +16,12 @@ The foundation of my portfolio website is an HTML5UP template that I discovered 
 5. **Share with Friends:** Allow friends and peers to see the projects I'm working on and the progress I'm making.
 
 ## Structure and Content
-## Structure and Content
 
 ### Home Page
-The home page serves as the introduction to my portfolio. It includes a brief overview of who I am, my professional background, and my current career focus.
+The home page serves as the introduction to my portfolio. It will display very brief information about me as well as tabs to see my introdcution, my projects, and any documentation I have recieved during my career. 
 
-### About Me
+### Intro
 The "About Me" section provides a detailed narrative of my educational background, professional experience, and personal interests. This section gives visitors insight into my journey and motivations.
-
-### Skills
-In this section, I outline the technical skills I have acquired. This includes programming languages, tools, and frameworks that I am proficient in, as well as any certifications or courses I have completed.
 
 ### Projects
 The projects section is the heart of my portfolio. Here, I showcase various projects I have worked on, providing detailed descriptions, screenshots, and links to the project repositories. Each project entry includes information on:
@@ -36,9 +29,9 @@ The projects section is the heart of my portfolio. Here, I showcase various proj
 - **Technologies Used:** The tools, languages, and frameworks employed.
 - **Challenges and Solutions:** The obstacles encountered during the project and how they were overcome.
 - **Outcomes:** The results and impacts of the project.
-
-### Blog
-I intend to maintain a blog where I will share my thoughts, experiences, and insights related to data science and programming. This space will include tutorials, reflections on challenges I've faced, and tips for others in the field.
+  
+### Documentation
+In this section, I outline the technical skills I have acquired. This includes programming languages, tools, and frameworks that I am proficient in, as well as any certifications or courses I have completed.
 
 ### Contact
 The contact section provides various ways to get in touch with me, including social media links, email, and a contact form. This ensures that potential employers, collaborators, and friends can easily reach out to me.
