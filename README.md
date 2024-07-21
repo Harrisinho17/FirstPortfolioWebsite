@@ -1,20 +1,20 @@
 Portfolio Website Repository
 Welcome to my Portfolio Website repository! This space is dedicated to showcasing my journey and growth in data science and programming. As I continue to expand my skillset and work on various projects, this repository will serve as a dynamic portfolio, reflecting my progress and achievements.
 
-##About This Repository
+## About This Repository
 The primary purpose of this repository is to house and launch my portfolio website. This website is a testament to the skills I have acquired through numerous online resources, including YouTube, Reddit, and Stack Overflow. By integrating the knowledge and techniques I've learned, I aim to create a comprehensive and visually appealing portfolio that highlights my expertise and projects.
 
-##Inspiration and Base Template
+## Inspiration and Base Template
 The foundation of my portfolio website is an HTML5UP template that I discovered during my YouTube explorations. HTML5UP is known for its beautiful and responsive templates, and I found one that perfectly suits my vision. Using this template as a starting point, I have added personal information and customized elements to make it uniquely mine. This template provides a professional and polished look, ensuring that my portfolio is both functional and aesthetically pleasing.
 
-##Objectives
+## Objectives
 Showcase My Skills: Display the technical skills and knowledge I've gained through continuous learning and hands-on experience.
 Document My Journey: Chronicle my career progression in data science and programming, highlighting key milestones and achievements.
 Present My Projects: Feature various projects I've worked on, detailing the technologies used, challenges faced, and solutions implemented.
 Engage Potential Employers: Provide a comprehensive view of my capabilities to attract potential employers and collaborators.
 Share with Friends: Allow friends and peers to see the projects I'm working on and the progress I'm making.
 
-##Structure and Content
+## Structure and Content
 
 **Home Page**
 The home page serves as the introduction to my portfolio. It includes a brief overview of who I am, my professional background, and my current career focus.
@@ -28,7 +28,7 @@ In this section, I outline the technical skills I have acquired. This includes p
 **Projects**
 The projects section is the heart of my portfolio. Here, I showcase various projects I have worked on, providing detailed descriptions, screenshots, and links to the project repositories. Each project entry includes information on:
 
-##Objective: The goal of the project.
+## Objective: The goal of the project.
 Technologies Used: The tools, languages, and frameworks employed.
 Challenges and Solutions: The obstacles encountered during the project and how they were overcome.
 Outcomes: The results and impacts of the project.
