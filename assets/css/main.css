@@ -315,8 +315,8 @@ input, select, textarea {
 			max-width: 800px; /* Max width for the iframe */
 			margin: 0 auto; /* Centering the iframe */
 			padding: 20px;
-			background-color: #fff; /* Background color for the form container */
-			border: 1px solid #ddd; /* Border around the form container */
+			/* background-color: rgba(27, 31, 34, 0.85); Background color for the form container */
+			border: 0px solid #ddd; /* Border around the form container */
 			border-radius: 10px; /* Rounded corners for the form container */
 		}
 
