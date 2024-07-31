@@ -315,7 +315,7 @@ input, select, textarea {
 			max-width: 800px; /* Max width for the iframe */
 			margin: 0 auto; /* Centering the iframe */
 			padding: 20px;
-			/* background-color: rgba(27, 31, 34, 0.85); Background color for the form container */
+			background-color: rgba(27, 31, 34, 0.85); /*Background color for the form container */
 			border: 0px solid #ddd; /* Border around the form container */
 			border-radius: 10px; /* Rounded corners for the form container */
 		}
@@ -1461,11 +1461,11 @@ input, select, textarea {
 			font-size: 12px;
 			border: none;
 			cursor: default;
-			display: inline-flex; /* Use inline-flex to align items within the button */
-			align-items: center; /* Center items vertically */
-			justify-content: center; /* Center items horizontally */
-			text-align: center; /* Center text horizontally */
-			height: 48px; /* Adjust height as needed */
+			display: inline-flex; 
+			align-items: center; 
+			justify-content: center; 
+			text-align: center; 
+			height: 48px; 
 		}
 
 		.dropdown:hover .dropbtn {
