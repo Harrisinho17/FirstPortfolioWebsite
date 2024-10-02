@@ -741,6 +741,18 @@ input, select, textarea {
 			}
 
 		}
+			/* Hover effect only for images with both image and hover classes */
+		.image.hover {
+			transition: transform 0.3s ease; /* Smooth scaling on hover */
+
+			&:hover {
+				transform: scale(1.05); /* Scale image slightly on hover */
+			}
+
+			img {
+				transition: transform 0.3s ease; /* Smooth scaling on hover */
+			}
+		}
 
 /* List */
 
